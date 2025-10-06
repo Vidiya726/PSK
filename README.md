@@ -139,7 +139,10 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
+## PSK
 <img width="1190" height="790" alt="download" src="https://github.com/user-attachments/assets/6b892a3e-b1e2-4f7f-9d68-3d3e86ab3f08" />
+
+## QPSK
 <img width="989" height="590" alt="download (1)" src="https://github.com/user-attachments/assets/9351ea3b-151d-4a41-a0d3-b406fa8153a0" />
 
 
