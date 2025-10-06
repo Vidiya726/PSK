@@ -61,5 +61,4 @@ plt.show()
 <img width="1190" height="790" alt="download" src="https://github.com/user-attachments/assets/6b892a3e-b1e2-4f7f-9d68-3d3e86ab3f08" />
 
 # Results
-
-# Hardware experiment output waveform.
+The experiment successfully demonstrated digital-analog conversion using PSK.
